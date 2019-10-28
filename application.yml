@@ -1,4 +1,5 @@
-jpa:
+spring:
+  jpa:
     database: POSTGRESQL
     show-sql: true
     generate-ddl: true
