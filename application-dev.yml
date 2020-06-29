@@ -3,7 +3,7 @@ spring:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
-    password: postgres
+    password: '{cipher}1015AQBbqP6RNRiZU5TxKALfqbLvCY2Ci7Qz8PpI2WvrSLFQoQFQJRnVzaGzLawTgIvqlpPkKLmXkisBmtcSl4HzTMWvNEOk9H+f/OcwG5IF1nha8fuyxPb5xwkGq6kJUBUU9DifCtPYJXOT4axbjSvkLjDS486epxIhPNsTfPfRxzx7t5VgxGiwKdf6k3anPBvxlsUUbYLvby9qRWQwsIbgR/uxUCkDAR7Mk5vg7ZmcKsCmltSuv4kgAkPYOGAaMn7utynVGM4iMOCU4zXfTCx957sdreYzTkgHR/y1D2KErCMYGCCgUy8qGbjc3YAHa2GrBJQtCYDy/YTEecXOj8plKi+Vowr67Ot84ygHpf+DmiEg4YGEJD0PYa/G42kmWekrJWY='
 
 eureka:
   client:
